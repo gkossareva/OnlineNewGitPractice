@@ -3,3 +3,5 @@ BMW 3
 BMW X6
 Audi R8
 Tesla
+Lexus GX470
+Honda Civic
