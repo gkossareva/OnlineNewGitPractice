@@ -1,5 +1,6 @@
 Toyota Corolla
-BMW 3
-BMW X6
 Audi R8
 Tesla
+Mercedes s500
+Lexus RX350
+Subaru WRX STI
