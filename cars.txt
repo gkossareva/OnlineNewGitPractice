@@ -6,4 +6,5 @@ Honda Civic
 Mercedes s500
 Lexus RX350
 Subaru WRX STI
+Range Rover Velar
 
